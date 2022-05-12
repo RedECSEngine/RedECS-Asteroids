@@ -1,3 +1,5 @@
 # RedECS-Asteroids
 
-A description of this package.
+![Demo GIF](./web-asteroids.gif)
+
+Web version of asteroids playable at https://swift-asteroids.netlify.app
